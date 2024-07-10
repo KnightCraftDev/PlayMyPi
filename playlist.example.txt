@@ -1,0 +1,4 @@
+https://github.com|10
+T:\Pfad\zu\einer\Bilddatei.jpg|5
+T:\Pfad\zu\einer\anderen\Bilddatei.jpg|5
+https://github.com/KnightCraftDev|3
